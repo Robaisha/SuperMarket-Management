@@ -1,0 +1,11 @@
+
+1	Mik	23		23
+1	Mik	90		23
+1	Sugar	1		1800
+1	Sugar	1		1800
+1	Sugar	2		1800
+4	Nido	1		500
+1	Sugar	2		1800
+1	Sugar	2		1800
+1	Sugar	1		1800
+1	Sugar	1		1800
